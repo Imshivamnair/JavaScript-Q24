@@ -31,7 +31,8 @@ is_perfect(28);
 **Sample Output:**
 
 It is a perfect number.
-Solution-2:
+
+**Solution-2:**
 
 function isPerfectNumber(number) {
     if (number <= 0) {
